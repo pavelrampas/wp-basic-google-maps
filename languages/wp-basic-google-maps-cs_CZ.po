@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-basic-google-maps\n"
+"POT-Creation-Date: 2018-10-06 21:23+0200\n"
+"PO-Revision-Date: 2018-10-06 21:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:44
+msgid "WP Basic Google maps pins"
+msgstr "WP Basic Google maps body"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:45
+msgid "Pins"
+msgstr "Body"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:54
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemáte dostatečné oprávnění k této stránce."
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:87
+msgid "New pin"
+msgstr "Nový bod"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:90
+#: admin/class-wp-basic-google-maps-admin-pins.php:157
+msgid "Name"
+msgstr "Název"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:94
+#: admin/class-wp-basic-google-maps-admin-pins.php:158
+#: class-wp-basic-google-maps-shortcodes.php:82
+msgid "Address"
+msgstr "Adresa"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:98
+#: admin/class-wp-basic-google-maps-admin-pins.php:159
+#: class-wp-basic-google-maps-shortcodes.php:83
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:102
+#: admin/class-wp-basic-google-maps-admin-pins.php:160
+#: class-wp-basic-google-maps-shortcodes.php:84
+msgid "Email"
+msgstr "Email"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:106
+#: admin/class-wp-basic-google-maps-admin-pins.php:161
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:110
+#: admin/class-wp-basic-google-maps-admin-pins.php:162
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:118
+msgid "Save"
+msgstr "Uložit"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:154
+msgid "List of pins"
+msgstr "Seznam bodů"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:188
+msgid "delete"
+msgstr "smazat"
+
+#: admin/class-wp-basic-google-maps-admin-pins.php:191
+msgid "edit"
+msgstr "upravit"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:13
+msgid "WP Basic Google maps settings"
+msgstr "WP Basic Google maps nastavení"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:14
+#: admin/class-wp-basic-google-maps-admin-settings.php:29
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:36
+msgid "Google API Key"
+msgstr "Google API klíč"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:44
+msgid "Map height (px)"
+msgstr "Výška mapy (px)"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:52
+msgid "Map zoom"
+msgstr "Přiblížení mapy"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:60
+msgid "Map center latitude"
+msgstr "Centrovaní mapy zeměpisná šířka"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:68
+msgid "Map center longitude"
+msgstr "Centrovaní mapy zeměpisná délka"
+
+#: admin/class-wp-basic-google-maps-admin-settings.php:76
+msgid "Setting page for WP Basic Google maps."
+msgstr "WP Basic Google maps stránka s nastavením."
+
+#: admin/class-wp-basic-google-maps-admin.php:13
+msgid "WP Basic Google maps"
+msgstr "WP Basic Google maps"
+
+#: admin/class-wp-basic-google-maps-admin.php:14
+msgid "Google map"
+msgstr "Google mapa"
